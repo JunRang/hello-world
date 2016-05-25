@@ -1,2 +1,5 @@
 # hello-world
-my first repository 
+
+my first test repository.
+I am man and dad.^^
+I'm happy.
